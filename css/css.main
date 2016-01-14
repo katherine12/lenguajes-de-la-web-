@@ -1,0 +1,15 @@
+
+h1{
+	color:red;
+	font-family:Arial;
+	font-weight:500 ;
+	font-size: 20px;
+}
+img{
+	border:1px solid;
+	color:blue;
+}
+p{
+	color:yellow;
+	font-size: 14px
+}
